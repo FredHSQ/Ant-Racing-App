@@ -43,7 +43,7 @@
    ```
 3. Go to the project
    ```sh
-   cd ant-racing
+   cd .\Ant-Racing-App\
    ```
 4. Install all packages
    ```sh
